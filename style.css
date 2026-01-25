@@ -5,9 +5,7 @@
 
 /* CSS REST */
     html {
-        justify-content: center;
-        display: grid;
-        place-items: center;
+        text-align: center;
     }
 
     body {

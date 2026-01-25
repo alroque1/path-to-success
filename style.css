@@ -17,10 +17,9 @@
     body {
         background-color:#6B8FE7;
         color: #1E1E1E;
-        max-width: 450px;
         text-align: center;
-        content: center;
         align-self: center;
+        font-size: var(--font-body);
     }
 
     /*header*/
@@ -104,6 +103,11 @@
 
 /* GLOBAL STYLES (mobile first/small) */
 @media screen and (max-width: 450px) {
+    .page {
+        max-width: 100%;
+        padding: 10px;
+    }
+
     body {
          background-color:#6B8FE7;
          text-align: center;

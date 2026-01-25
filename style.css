@@ -26,7 +26,7 @@
 
 /* GLOBAL STYLES (mobile first/small) */
 @media screen and (max-width: 450px) {
-    body {
+    html {
         background-color:#484FB7;
         color: #1E1E1E;
         max-width: 450px;

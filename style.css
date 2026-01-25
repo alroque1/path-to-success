@@ -8,14 +8,13 @@
         scroll-behavior: smooth;
     }
 
-    body {
-        background-color:#6B8FE7;
-        color: #1E1E1E;
+    .page {
         max-width: 450px;
+        margin: 0 auto;
         text-align: center;
-        content: center;
-        align-self: center;
     }
+
+
 
     /*header*/
 

@@ -20,19 +20,18 @@
 
     header {
         background-color: #484FB7;
+        color:#ffffff;
+        text-align: center;
     }
 
     h1 {
         font-size: 3em;
         font-family: var(--font-heading) ;
-        color:#ffffff;
     }
 
     header p {
         font-family: var(--font-body);
         font-style: italic;
-        text-align: center;
-        color:#ffffff;
     }
 
     /*nav*/

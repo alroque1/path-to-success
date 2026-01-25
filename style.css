@@ -29,9 +29,9 @@
 
 /* GLOBAL STYLES (mobile first/small) */
 @media (max-width: 450px) {
-    h1 {
+    header {
         font-size: 3em;
-        font-family: var(--font-heading) !important;
+        font-family: var(--font-heading) ;
         color:#ffffff;
     }
 

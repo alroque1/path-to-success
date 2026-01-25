@@ -5,7 +5,7 @@
 
 /* CSS REST */
     html {
-        align-content: center;
+        justify-content: center;
     }
 
     body {
@@ -14,7 +14,7 @@
         max-width: 450px;
         text-align: center;
     }
-    
+
     h1 {
         font-size: 3em;
         font-family: var(--font-heading) ;

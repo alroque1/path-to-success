@@ -41,7 +41,7 @@
         text-transform: capitalize;
     }
 
-    h2 {
+    /* h2 {
         font-size: 2em;
         font-family: var(--font-heading);
         color:#ffffff;
@@ -62,7 +62,7 @@
 
     footer {
         color:#ffffff;
-    }
+    } */
 
 
 /* ROOT VARIABLES */

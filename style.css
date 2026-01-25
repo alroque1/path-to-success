@@ -17,9 +17,10 @@
         color:#ffffff;
     }
 
-    #p h1 {
+    p h1 {
         font-family: var(--font-body);
         font-style: italic;
+        color:#ffffff;
     }
 
     nav {

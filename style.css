@@ -22,8 +22,8 @@
     --White:#ffffff;
 
     /* Fonts */
-    --font-heading: 'Kavoon';
-    --font-body: 'Inter';
+    --font-heading: 'Kavoon', bold;
+    --font-body: 'Inter', sans-serif;
 }
 
 

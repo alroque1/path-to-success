@@ -9,6 +9,7 @@
         color: #1E1E1E;
         max-width: 450px;
         text-align: center;
+        color
     }
     h1 {
         font-size: 3em;
@@ -80,7 +81,7 @@
 /* GLOBAL STYLES (mobile first/small) */
 @media screen and (max-width: 450px) {
     body {
-         background-color:#484FB7;
+         background-color:#6B8FE7;
          border-style: hidden;
     }
 }

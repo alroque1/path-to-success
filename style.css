@@ -31,7 +31,7 @@
 @media (max-width: 450px) {
     h1 {
         font-size: 3em;
-        font-family: var(--font-heading);
+        font-family: var(--font-heading) 'Kavoon';
         color:#ffffff;
     }
 

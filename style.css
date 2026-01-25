@@ -60,6 +60,7 @@
         font-size: 2em;
         font-family: var(--font-heading);
         color:#ffffff;
+        border-style: solid;
     }
 
     h3 {

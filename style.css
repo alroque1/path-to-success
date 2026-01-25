@@ -36,6 +36,7 @@
     nav li {
         background-color: #ffffff;
         color:#484FB7;
+        text-transform: capitalize;
     }
 
     h2 {

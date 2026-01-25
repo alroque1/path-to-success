@@ -4,6 +4,10 @@
 
 
 /* CSS REST */
+    html {
+        scroll-behavior: smooth;
+    }
+
     body {
         background-color:#484FB7;
         color: #1E1E1E;

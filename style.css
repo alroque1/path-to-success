@@ -7,7 +7,7 @@
     body {
         background-color:#484FB7;
         color: #1E1E1E;
-        outline-width: 450px;
+        max-width: 450px;
         text-align: center;
     }
     h1 {

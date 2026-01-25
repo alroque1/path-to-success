@@ -4,15 +4,12 @@
 
 
 /* CSS REST */
-    html {
-        text-align: center;
-    }
-
     body {
         background-color:#484FB7;
         color: #1E1E1E;
         max-width: 450px;
         text-align: center;
+        content: center;
     }
 
     h1 {

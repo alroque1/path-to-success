@@ -4,7 +4,10 @@
 
 
 /* CSS REST */
-
+    body {
+        background-color: #6B8FE7;
+        color: #1E1E1E;
+    }
 
 
 /* ROOT VARIABLES */

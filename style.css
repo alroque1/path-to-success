@@ -12,10 +12,16 @@
         max-width: 450px;
         margin: 0 auto;
         text-align: center;
-        padding: 20px;
     }
 
-
+    body {
+        background-color:#6B8FE7;
+        color: #1E1E1E;
+        max-width: 450px;
+        text-align: center;
+        content: center;
+        align-self: center;
+    }
 
     /*header*/
 

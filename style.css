@@ -16,6 +16,8 @@
         content: center;
     }
 
+    /*header*/
+
     header {
         background-color: #484FB7;
     }
@@ -26,11 +28,13 @@
         color:#ffffff;
     }
 
-    p header {
+    header p {
         font-family: var(--font-body);
         font-style: italic;
         color:#ffffff;
     }
+
+    /*nav*/
 
     nav {
         background-color: #E9BB57;

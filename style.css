@@ -22,7 +22,7 @@
     --White:#ffffff;
 
     /* Fonts */
-    --font-heading: 'Kavoon', bold;
+    --font-heading: 'Kavoon', cursive;
     --font-body: 'Inter', sans-serif;
 }
 
@@ -31,7 +31,7 @@
 @media (max-width: 450px) {
     h1 {
         font-size: 3em;
-        font-family: var(--font-heading) 'Kavoon';
+        font-family: var(--font-heading) !important;
         color:#ffffff;
     }
 

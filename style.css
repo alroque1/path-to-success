@@ -9,11 +9,15 @@
     }
 
     body {
-        background-color:#484FB7;
+        background-color:#6B8FE7;
         color: #1E1E1E;
         max-width: 450px;
         text-align: center;
         content: center;
+    }
+
+    header {
+        background-color: #484FB7;
     }
 
     h1 {

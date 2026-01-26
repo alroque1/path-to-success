@@ -10,7 +10,6 @@
 
     .page {
         max-width: 450px;
-        margin: 0 auto;
         text-align: center;
     }
 
@@ -27,7 +26,7 @@
         background-color: #484FB7;
         color:#ffffff;
         text-align: center;
-
+        margin: 0;
         padding: 0;
     }
 

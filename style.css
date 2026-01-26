@@ -46,6 +46,7 @@
 
     nav {
         background-color: #E9BB57;
+        font-family: var(--font-heading);
         text-align: center;
         text-transform: capitalize;
     }

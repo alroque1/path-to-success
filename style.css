@@ -60,12 +60,15 @@
     }
 
     nav ul {
-        background-color: #ffffff;
         color:#484FB7;
-        list-style-type: none;
+        list-style: none;
         text-align: center;
         padding: 0;
         margin: 0;
+    }
+
+    nav li {
+         background-color: #ffffff;
     }
 
     /* h2 {

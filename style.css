@@ -67,6 +67,7 @@
         font-size: 1.5em;
         font-style: italic;
         color: black;
+        padding: 20px;
     }
 
     nav ul {
@@ -79,7 +80,7 @@
 
     nav li {
         background-color: #ffffff;
-        padding: 10px;
+        padding: 10px 20px;
         margin: 10px 20px;
     }
 

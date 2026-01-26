@@ -10,7 +10,7 @@
 
     .page {
         max-width: 450px;
-        margin: auto auto;
+        margin: 0 auto;
         text-align: center;
     }
 
@@ -20,7 +20,6 @@
         text-align: center;
         align-self: center;
         font-size: var(--font-body);
-        margin: 0;
     }
     
     /*header*/

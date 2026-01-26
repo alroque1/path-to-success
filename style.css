@@ -19,6 +19,8 @@
         color: #1E1E1E;
         text-align: center;
         font-size: var(--font-body);
+        margin: 0;
+        padding: 0;
     }
     
     /*header*/
@@ -29,16 +31,14 @@
         text-align: center;
     }
 
-    header h1 {
+    h1 {
         font-size: 3em;
         font-family: var(--font-heading);
-        margin-bottom: 0;
     }
 
     header p {
         font-family: var(--font-body);
         font-style: italic;
-        margin-top: 0;
     }
 
     /*nav*/

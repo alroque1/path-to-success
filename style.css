@@ -73,12 +73,12 @@
     nav ul {
         color:#484FB7;
         list-style: none;
-        text-decoration: none;
     }
 
     nav li {
         background-color: #ffffff;
-
+        padding: 20px;
+        margin: 10px 20px;
     }
 
     /* h2 {

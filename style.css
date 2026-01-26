@@ -20,6 +20,7 @@
         text-align: center;
         align-self: center;
         font-size: var(--font-body);
+        margin: 0;
     }
     
     /*header*/

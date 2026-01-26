@@ -46,14 +46,14 @@
 
     nav {
         background-color: #E9BB57;
+        font-family: var(--font-body);
         text-align: center;
+        text-transform: capitalize;
     }
 
     nav h2 {
         font-size: 1.5em;
-        font-family: var(--font-body);
         font-style: italic;
-        text-transform: capitalize;
         color: black;
         
     }
@@ -61,7 +61,6 @@
     nav ul {
         background-color: #ffffff;
         color:#484FB7;
-        text-transform: capitalize;
         list-style: none;
     }
 

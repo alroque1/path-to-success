@@ -10,7 +10,7 @@
 
     .page {
         max-width: 450px;
-        margin: auto auto;
+        margin: 0 auto;
         text-align: center;
     }
 
@@ -60,7 +60,7 @@
         color:#484FB7;
         font-size: 1.5em;
         list-style: none;
-        padding: 5px 5px;
+        padding: 10px 20px;
     }
 
     nav li {

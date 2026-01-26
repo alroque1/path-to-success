@@ -35,11 +35,13 @@
     h1 {
         font-size: 3em;
         font-family: var(--font-heading) ;
+        padding-bottom: 0%;
     }
 
     header p {
         font-family: var(--font-body);
         font-style: italic;
+        padding-top: 0%;
     }
 
     /*nav*/

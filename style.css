@@ -60,8 +60,7 @@
         text-decoration: none;
         font-family: var(--font-body);
         margin: 0 auto;
-        padding: 0;
-        border-radius: 0;
+        padding: 20px;
     }
 
     nav h2 {

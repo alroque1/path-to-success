@@ -33,7 +33,7 @@
 
     h1 {
         font-size: 3em;
-        font-family: var(--font-body);
+        font-family: var(--font-heading);
     }
 
     header p {

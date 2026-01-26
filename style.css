@@ -19,8 +19,6 @@
         color: #1E1E1E;
         text-align: center;
         font-size: var(--font-body);
-        margin: 0;
-        padding: 0;
     }
     
     /*header*/
@@ -34,19 +32,14 @@
     h1 {
         font-size: 3em;
         font-family: var(--font-heading);
-        margin: 0;
     }
 
     header p {
         font-family: var(--font-body);
         font-style: italic;
-        margin: 0;
     }
 
     /*nav*/
-    header, nav {
-        margin: 0;
-    }
 
     nav {
         background-color: #E9BB57;

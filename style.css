@@ -56,7 +56,8 @@
         font-size: 1.5em;
         font-style: italic;
         color: black;
-        
+        padding-bottom: 2em;
+        padding-top: 2em;
     }
 
     nav ul {

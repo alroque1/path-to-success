@@ -21,13 +21,15 @@
         align-self: center;
         font-size: var(--font-body);
     }
-
+    
     /*header*/
 
     header {
         background-color: #484FB7;
         color:#ffffff;
         text-align: center;
+        padding-top: 10px;
+        padding-bottom: 10px;
     }
 
     h1 {

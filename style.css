@@ -62,6 +62,8 @@
         font-size: 1.5em;
         list-style: none;
         padding: 20px 20px;
+        text-decoration-line: none;
+        text-decoration-color: #484FB7;
     }
 
     nav li {

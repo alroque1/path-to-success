@@ -29,7 +29,6 @@
         background-color: #484FB7;
         color:#ffffff;
         text-align: center;
-        margin: 0;
     }
 
     h1 {
@@ -52,7 +51,6 @@
         text-transform: uppercase;
         text-decoration: none;
         font-family: var(--font-body);
-        margin: 0;
     }
 
     nav h2 {

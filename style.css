@@ -28,7 +28,7 @@
         background-color: #484FB7;
         color:#ffffff;
         text-align: center;
-        margin: 0 auto;
+        padding: 10px auto;
     }
 
     h1 {
@@ -47,7 +47,6 @@
 
     nav {
         background-color: #E9BB57;
-        font-family: var(--font-heading);
         text-align: center;
         text-transform: capitalize;
     }

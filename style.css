@@ -46,6 +46,8 @@
 
     nav {
         background-color: #E9BB57;
+        padding-left: 10em;
+        padding-right: 10em;
     }
 
     nav h2 {
@@ -54,6 +56,7 @@
         font-style: italic;
         text-transform: capitalize;
         color: black;
+        
     }
 
     nav ul {

@@ -7,6 +7,7 @@
     * {
         margin: 0;
         padding: 0;
+        box-sizing: border-box;
     }
 
     html {
@@ -35,7 +36,7 @@
         color:#ffffff;
         text-align: center;
         margin: 0 auto;
-        padding: 10px auto;
+        padding: 30px auto;
     }
 
     h1 {
@@ -60,7 +61,7 @@
         font-family: var(--font-body);
         margin: 0 auto;
         padding: 0;
-        border-radius: 0;
+        border-radius: 10px;
     }
 
     nav h2 {

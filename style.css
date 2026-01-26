@@ -42,11 +42,13 @@
     h1 {
         font-size: 3em;
         font-family: var(--font-heading);
+        margin: 0;
     }
 
     header p {
         font-family: var(--font-body);
         font-style: italic;
+        margin: 0;
     }
 
     /*nav*/

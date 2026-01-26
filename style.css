@@ -67,7 +67,7 @@
         font-size: 1.5em;
         font-style: italic;
         color: black;
-        margin: 5px;
+
 
     }
 
@@ -78,8 +78,7 @@
 
     nav li {
         background-color: #ffffff;
-        padding: 0;
-        margin: 5px;
+        padding: 5px;
     }
 
     /* h2 {

@@ -44,14 +44,14 @@
     nav {
         background-color: #E9BB57;
         text-align: center;
-        text-transform: capitalize;
+        text-transform: uppercase;
     }
 
     nav h2 {
         font-size: 2em;
         font-style: italic;
         color: black;
-        text-transform: capitalize;
+        text-transform: uppercase;
     }
 
     nav ul {

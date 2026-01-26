@@ -54,7 +54,7 @@
         font-size: 2em;
         font-style: italic;
         color: black;
-        text-transform: uppercase;
+        font-family: var(--font-body);
     }
 
     nav ul {
@@ -62,6 +62,7 @@
         font-size: 1.5em;
         list-style: none;
         padding: 10px 20px;
+        font-family: var(--font-body);
     }
 
     nav li {

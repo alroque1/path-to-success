@@ -61,7 +61,7 @@
         font-family: var(--font-body);
         margin: 0 auto;
         padding: 0;
-        border-radius: 15px;
+        border-radius: 0;
     }
 
     nav h2 {

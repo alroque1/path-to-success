@@ -27,12 +27,11 @@
         background-color: #484FB7;
         color:#ffffff;
         text-align: center;
-        font-family: var(--font-heading);
     }
 
     h1 {
         font-size: 3em;
-        
+        font-family: var(--font-heading);
         margin-bottom: 0;
     }
 

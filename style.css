@@ -18,8 +18,8 @@
         background-color:#6B8FE7;
         color: #1E1E1E;
         text-align: center;
-        align-self: center;
         font-size: var(--font-body);
+        margin: 0;
     }
     
     /*header*/

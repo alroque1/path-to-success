@@ -59,7 +59,7 @@
         text-transform: uppercase;
         text-decoration: none;
         font-family: var(--font-body);
-        margin: 20px auto;
+        margin: 0 auto;
         padding: 20px;
         border-radius: 15px;
     }

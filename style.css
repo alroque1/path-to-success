@@ -52,13 +52,14 @@
     }
 
     nav h2 {
-        font-size: 1.5em;
+        font-size: 2em;
         font-style: italic;
         color: black;
     }
 
     nav ul {
         color:#484FB7;
+        font-size: 1.5em;
         list-style: none;
         text-align: center;
         padding: 0;

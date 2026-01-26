@@ -67,7 +67,7 @@
         font-size: 1.5em;
         font-style: italic;
         color: black;
-        margin: 20px;
+        margin: 5%;
 
     }
 
@@ -79,7 +79,7 @@
     nav li {
         background-color: #ffffff;
         padding: 20px;
-        margin: 10px 20px;
+        margin: 10px;
     }
 
     /* h2 {

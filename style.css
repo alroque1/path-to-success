@@ -28,6 +28,8 @@
         background-color: #484FB7;
         color:#ffffff;
         text-align: center;
+        padding-bottom: 10em;
+        padding-top: 10em;
     }
 
     h1 {
@@ -46,7 +48,6 @@
 
     nav {
         background-color: #E9BB57;
-        font-family: var(--font-body);
         text-align: center;
         text-transform: capitalize;
     }

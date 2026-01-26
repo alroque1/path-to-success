@@ -29,7 +29,7 @@
         text-align: center;
     }
 
-    h1 {
+    header h1 {
         font-size: 3em;
         font-family: var(--font-heading);
         margin-bottom: 0;

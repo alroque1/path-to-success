@@ -27,7 +27,8 @@
         background-color: #484FB7;
         color:#ffffff;
         text-align: center;
-        padding: 10px auto;
+        padding-top: 10px;
+        padding-bottom: 10px;
     }
 
     h1 {

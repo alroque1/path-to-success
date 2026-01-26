@@ -67,13 +67,14 @@
         font-size: 1.5em;
         font-style: italic;
         color: black;
-        margin: 5px auto;
+        padding: 80px;
     }
 
     nav ul {
         color:#484FB7;
         list-style: none;
         text-decoration: none;
+
     }
 
     nav li {

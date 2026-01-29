@@ -30,7 +30,7 @@
         padding: 0;
     }
     
-    /*header*/
+    /*----------header----------*/
 
     header {
         background-color: #484FB7;
@@ -52,7 +52,7 @@
         margin-top: 0;
     }
 
-    /*nav*/
+    /*----------nav----------*/
 
     nav {
         background-color: #E9BB57;
@@ -88,12 +88,13 @@
         font-style: normal;
     }
 
-    /*our services section*/
+    /*----------our services section----------*/
 
     #our-services {
         background-color: #484FB7;
         text-align: left;
     }
+
 
 
     /* h2 {

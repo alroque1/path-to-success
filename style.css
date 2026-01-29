@@ -72,7 +72,6 @@
     }
 
     nav ul {
-        color:#484FB7;
         list-style: none;
     }
 
@@ -80,6 +79,7 @@
         background-color: #ffffff;
         margin: 10px;
         padding: 15px 25px;
+        color:#484FB7;
     }
 
     /* h2 {

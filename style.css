@@ -4,7 +4,7 @@
 
 
 /* CSS REST */
-    /*keep code organized!*/
+    /*keep code organized! Tab parts like html code so I don't get confused */
     * {
         margin: 0;
         padding: 0;
@@ -96,12 +96,26 @@
     }
 
         #our-services > h2 {
-            font-family: var(--font-heading);
             font-size: 2em;
+            font-family: var(--font-heading);
             color:#ffffff;
         }
 
-            .one on one coaching
+        #our-services > h3 {
+            font-size: 1.5em;
+            font-family: var(--font-body);
+            color:#E9BB57;
+        }
+
+        #our-services > h4 {
+            font-size: 1.153m;
+            font-family: var(--font-body);
+            color:#484FB7;
+        }
+
+            .one-on-one-coaching {
+                background-color: #ffffff;
+            }
 
 
 

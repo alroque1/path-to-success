@@ -112,6 +112,7 @@
             font-family: var(--font-body);
             color:#E9BB57;
             padding: 10px;
+            margin-top: 0;
         }
 
         #our-services > h4 {

@@ -95,6 +95,12 @@
         text-align: left;
     }
 
+    #our-services > h2 {
+        font-family: var(--font-heading);
+        font-size: 2em;
+        color:#ffffff;
+    }
+
 
 
     /* h2 {

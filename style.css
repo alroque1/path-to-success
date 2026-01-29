@@ -68,7 +68,7 @@
         nav h2 {
             font-size: 1.5em;
             color: black;
-            padding: 5px;
+            padding: 10px;
             font-style: italic;
         }
 
@@ -101,6 +101,7 @@
             font-size: 2em;
             font-family: var(--font-heading);
             color:#ffffff;
+            padding: 10px;
         }
 
         #our-services > h3 {

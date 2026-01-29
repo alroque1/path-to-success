@@ -115,31 +115,32 @@
             margin-top: 0;
         }
 
-        h3 {
-            font-size: 1.5em;
-            font-family: var(--font-body);
-            color:#E9BB57;
-            padding: 10px 20px;
-        }
-
-        h4 {
-            font-size: 1.15em;
-            font-family: var(--font-body);
-            color:#484FB7;
-        }
-
-            .box {
-                background-color: #ffffff;
-                margin: 20px;
-                padding: 25px;
-                border-radius: 15px;
-            }
-
-            .box p {
+            h3 {
+                font-size: 1.5em;
                 font-family: var(--font-body);
+                color:#E9BB57;
+                padding: 10px 20px;
             }
-            
 
+                h4 {
+                    font-size: 1.15em;
+                    font-family: var(--font-body);
+                    color:#484FB7;
+                }
+
+                    .box {
+                        background-color: #ffffff;
+                        margin: 20px;
+                        padding: 25px;
+                        border-radius: 15px;
+                    }
+
+                    .box p {
+                        font-family: var(--font-body);
+                    }
+            
+/*----------why choose us section----------*/
+    #why-choose-us
 
 
     /* h2 {

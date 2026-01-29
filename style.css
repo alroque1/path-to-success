@@ -58,6 +58,7 @@
         background-color: #E9BB57;
         text-align: center;
         text-transform: uppercase;
+        
         font-family: var(--font-body);
         font-style: italic;
         margin: 0 auto;
@@ -74,10 +75,14 @@
         list-style: none;
     }
 
-    nav a {
+    nav li {
         background-color: #ffffff;
         margin: 10px;
         padding: 15px 25px;
+        
+    }
+
+    nav a {
         color:#484FB7;
         text-decoration: none;
     }

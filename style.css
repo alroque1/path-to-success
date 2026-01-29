@@ -4,6 +4,7 @@
 
 
 /* CSS REST */
+    /*keep code organized!*/
     * {
         margin: 0;
         padding: 0;
@@ -59,13 +60,13 @@
         text-transform: uppercase;
         text-decoration: none;
         font-family: var(--font-body);
+        font-style: italic;
         margin: 0 auto;
         padding: 5px;
     }
 
     nav h2 {
         font-size: 1.5em;
-        font-style: italic;
         color: black;
         padding: 5px;
     }

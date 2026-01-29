@@ -40,17 +40,17 @@
         padding: 20px;
     }
 
-    h1 {
-        font-size: 3em;
-        font-family: var(--font-heading);
-        margin-bottom: 0;
-    }
+        h1 {
+            font-size: 3em;
+            font-family: var(--font-heading);
+            margin-bottom: 0;
+        }
 
-    header p {
-        font-family: var(--font-body);
-        font-style: italic;
-        margin-top: 0;
-    }
+        header p {
+            font-family: var(--font-body);
+            font-style: italic;
+            margin-top: 0;
+        }
 
     /*----------nav----------*/
 
@@ -63,30 +63,30 @@
         padding: 5px;
     }
 
-    nav h2 {
-        font-size: 1.5em;
-        color: black;
-        padding: 5px;
-        font-style: italic;
-    }
+        nav h2 {
+            font-size: 1.5em;
+            color: black;
+            padding: 5px;
+            font-style: italic;
+        }
 
-    nav ul {
-        list-style: none;
-    }
+            nav ul {
+                list-style: none;
+            }
 
-    nav li {
-        background-color: #ffffff;
-        margin: 10px;
-        padding: 15px 25px;
-        
-    }
+            nav li {
+                background-color: #ffffff;
+                margin: 10px;
+                padding: 15px 25px;
+                
+            }
 
-    nav a {
-        color:#484FB7;
-        text-decoration: none;
-        font-weight: bolder;
-        font-style: normal;
-    }
+            nav a {
+                color:#484FB7;
+                text-decoration: none;
+                font-weight: bolder;
+                font-style: normal;
+            }
 
     /*----------our services section----------*/
 
@@ -95,11 +95,13 @@
         text-align: left;
     }
 
-    #our-services > h2 {
-        font-family: var(--font-heading);
-        font-size: 2em;
-        color:#ffffff;
-    }
+        #our-services > h2 {
+            font-family: var(--font-heading);
+            font-size: 2em;
+            color:#ffffff;
+        }
+
+            .one on one coaching
 
 
 

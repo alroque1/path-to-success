@@ -107,6 +107,14 @@
             margin: 0 auto;
         }
 
+        #our-services > h2 {
+            margin-bottom: 0;
+        }
+
+        #our-services > h3 {
+            margin-top: 0;
+        }
+
         h3 {
             font-size: 1.5em;
             font-family: var(--font-body);

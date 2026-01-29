@@ -157,7 +157,7 @@
             margin: 0;
         }
 
-        #why-choose-us-li {
+        #why-choose-us li {
             text-align: center;
             font-size: 1.5em;
             font-family: var(--font-body);

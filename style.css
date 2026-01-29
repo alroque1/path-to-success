@@ -165,6 +165,22 @@
             color: #1E1E1E;
         }
 
+            .approach {
+                background-color: #4CA7C0;
+            }
+
+            .results {
+                background-color:#6B8FE7;
+            }
+
+            .environment {
+                background-color: #E9BB57;
+            }
+
+            .options {
+                background-color: #ffffff;
+            }
+
 
     /* h2 {
         font-size: 2em;

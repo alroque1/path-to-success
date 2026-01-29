@@ -133,6 +133,9 @@
                 margin: 20px;
                 padding: 25px;
                 border-radius: 15px;
+            }
+
+            .box p {
                 font-family: var(--font-body);
             }
             

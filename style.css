@@ -144,6 +144,8 @@
     #why-choose-us {
         background-color: #D9526F;
         text-align: center;
+        margin: 0 auto;
+        padding: 5px;
     }
 
         #why-choose-us ul {
@@ -155,7 +157,7 @@
         }
 
         #why-choose-us-li {
-            
+
         }
 
 

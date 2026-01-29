@@ -95,6 +95,8 @@
     #our-services {
         background-color: #484FB7;
         text-align: left;
+        margin: 0 auto;
+        padding: 5px;
     }
 
         #our-services > h2 {

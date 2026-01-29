@@ -99,7 +99,7 @@
         padding: 5px;
     }
 
-        #our-services > h2 {
+        #our-services > h2, #why-choose-us > h2, #prices > h2, #take-the-first-step > h2 {
             font-size: 2em;
             font-family: var(--font-heading);
             color:#ffffff;

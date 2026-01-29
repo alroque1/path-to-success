@@ -133,6 +133,7 @@
                 margin: 20px;
                 padding: 25px;
                 border-radius: 15px;
+                font-family: var(--font-body);
             }
             
 

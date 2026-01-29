@@ -140,7 +140,18 @@
                     }
             
 /*----------why choose us section----------*/
-    #why-choose-us
+    #why-choose-us {
+        background-color: #D9526F;
+        text-align: center;
+    }
+
+    #why-choose-us ul {
+        display: grid;
+        grid-template-columns: repeat (2, 1fr);
+        gap: 10px;
+        padding: 0;
+        list-style: none;
+    }
 
 
     /* h2 {

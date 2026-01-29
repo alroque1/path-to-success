@@ -162,8 +162,8 @@
             font-size: 1.14em;
             font-family: var(--font-body);
             font-weight: bolder;
-            padding: 10px 20px;
-            border-radius: 15px;
+            padding: 10px;
+            border-radius: 20px;
             color: #1E1E1E;
         }
 

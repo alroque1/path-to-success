@@ -86,7 +86,7 @@
             nav a {
                 color:#484FB7;
                 text-decoration: none;
-                font-weight: 200;
+                font-weight: 500;
                 font-style: normal;
             }
 
@@ -104,6 +104,7 @@
             font-family: var(--font-heading);
             color:#ffffff;
             padding: 10px;
+            margin: 0 auto;
         }
 
         h3 {
@@ -122,7 +123,7 @@
             .box {
                 background-color: #ffffff;
                 margin: 10px;
-                padding: 15px 25px;
+                padding: 20px 30px;
             }
 
 

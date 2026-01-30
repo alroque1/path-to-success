@@ -264,6 +264,11 @@
         justify-content: center;
         gap: 15px;
     }
+    
+    footer a {
+        text-decoration: underline;
+        color: ;
+    }
 
 
 /* ROOT VARIABLES */

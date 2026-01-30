@@ -111,7 +111,7 @@
                 font-size: 1.5em;
                 font-family: var(--font-body);
                 color:#E9BB57;
-                padding: 5px;
+                padding: 7px;
                 margin-top: 0;
             }
 
@@ -229,7 +229,8 @@
         }
 
         #take-the-first-step p  {
-            color:#ffffff;    
+            color:#ffffff;
+            padding: 10px;    
         }
 
         #take-the-first-step a {

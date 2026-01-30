@@ -259,10 +259,10 @@
     }
 
     footer small {
-        display: flex;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
         text-align: center;
         align-items: center;
-        display: flex;
         flex-wrap: wrap;
         justify-content: center;
         gap: 20px;

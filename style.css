@@ -210,7 +210,7 @@
             #prices td {
                 text-align: left;
                 font-family: var(--font-body);
-                padding: 2px;
+                padding: 5px 10px;
                 color: #1E1E1E;
                 background-color: #ffffff;
             }

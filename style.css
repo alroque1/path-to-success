@@ -181,19 +181,11 @@
         background-color: #484FB7;
         text-align: center;
         margin: 0 auto;
-
     }
 
     #prices h2, #prices h3 {
         text-align: left;
-    }
-
-    #prices h2 {
-        margin-bottom: 0;
-    }
-
-    #prices h3 {
-        margin-top: 0;
+        margin: 0;
     }
 
         #prices table {

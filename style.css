@@ -207,6 +207,7 @@
             #prices td {
                 text-align: left;
                 font-size: 1.15em;
+                font-weight: bolder;
                 font-family: var(--font-body);
                 padding: 10px;
                 color: #1E1E1E;

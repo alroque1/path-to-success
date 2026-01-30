@@ -224,6 +224,10 @@
         font-family: var(--font-body);
     }
 
+        #take-the-first-step h2  {
+            text-align: left;    
+        }
+
         #take-the-first-step p  {
             color:#ffffff;    
         }

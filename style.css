@@ -219,11 +219,23 @@
     #take-the-first-step {
         background-color: #D9526F;
         text-align: left;
-        color:#ffffff;
         margin: 0 auto;
         padding: 20px 10px;
         font-family: var(--font-body);
     }
+
+        #take-the-first-step p  {
+            color:#ffffff;    
+        }
+
+        #take-the-first-step a {
+            background-color: #ffffff;
+            color:#1E1E1E;
+            text-align: center;
+            border-radius: 15px;
+            box-shadow:#1E1E1E;
+            font-weight: bolder;
+        }
 
     /* h2 {
         font-size: 2em;

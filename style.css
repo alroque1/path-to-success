@@ -258,6 +258,10 @@
         font-size: 1.15em;
         font-family: var(--font-body);
         padding: 20px;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        gap: 15px;
     }
 
 

@@ -233,6 +233,7 @@
         }
 
         #take-the-first-step a {
+            display: inline-block;
             background-color: #ffffff;
             color:#1E1E1E;
             text-align: center;

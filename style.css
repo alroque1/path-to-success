@@ -216,7 +216,14 @@
             }
 
 /*----------take the first step section----------*/
-        
+    #take-the-first-step {
+        background-color: #D9526F;
+        text-align: left;
+        color:#ffffff;
+        margin: 0 auto;
+        padding: 20px 10px;
+        font-family: var(--font-body);
+    }
 
     /* h2 {
         font-size: 2em;

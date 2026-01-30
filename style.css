@@ -193,13 +193,14 @@
 
     table {
         background-color: #E9BB57;
-    }
-
-    #prices th {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         gap: 10px;
         padding: 0;
+    }
+
+    #prices th {
+        
         list-style: none;
         margin: 0;
     }

@@ -181,7 +181,7 @@
         background-color: #484FB7;
         text-align: center;
         margin: 0 auto;
-        padding: 20px;
+
     }
 
     #prices h2, #prices h3 {
@@ -216,7 +216,6 @@
 
             #prices td {
                 text-align: left;
-                font-size: 1.15em;
                 font-family: var(--font-body);
                 padding: 15px;
                 color: #1E1E1E;

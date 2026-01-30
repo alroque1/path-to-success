@@ -183,7 +183,7 @@
         padding: 5px;
     }
 
-    #prices h2 {
+    #prices h2, #prices h3 {
         text-align: left;
     }
 
@@ -192,7 +192,7 @@
             margin: 0 auto;
             border-collapse: separate;
             border-spacing: 5px;
-            padding: 20px;
+            padding: 10px;
         }
 
             #prices th {

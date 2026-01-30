@@ -96,7 +96,7 @@
         background-color: #484FB7;
         text-align: left;
         margin: 0 auto;
-        padding: 10px 20px;
+        padding: 10px;
     }
 
         #our-services > h2, #why-choose-us > h2, #prices > h2, #take-the-first-step > h2 {
@@ -111,7 +111,7 @@
                 font-size: 1.5em;
                 font-family: var(--font-body);
                 color:#E9BB57;
-                padding: 10px 20px;
+                padding: 10px;
                 margin-top: 0;
             }
 
@@ -138,7 +138,7 @@
         background-color: #D9526F;
         text-align: left;
         margin: 0 auto;
-        padding: 10px 20px;
+        padding: 10px;
     }
 
         #why-choose-us ul {
@@ -181,7 +181,7 @@
         background-color: #484FB7;
         text-align: center;
         margin: 0 auto;
-        padding: 10px 20px;
+        padding: 10px;
     }
 
     #prices h2, #prices h3 {
@@ -220,7 +220,7 @@
         background-color: #D9526F;
         text-align: left;
         margin: 0 auto;
-        padding: 10px 10px;
+        padding: 10px;
         font-family: var(--font-body);
     }
 

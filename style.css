@@ -198,6 +198,7 @@
         padding: 0;
         list-style: none;
         margin: 0;
+        background-color: #E9BB57;
     }
 
     #prices td {
@@ -206,6 +207,7 @@
         font-family: var(--font-body);
         padding: 5px;
         color: #1E1E1E;
+        background-color: #ffffff;
     }
 
     /* h2 {

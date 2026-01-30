@@ -209,10 +209,13 @@
             #prices td {
                 text-align: left;
                 font-family: var(--font-body);
-                padding: 15px;
+                padding: 5px;
                 color: #1E1E1E;
                 background-color: #ffffff;
             }
+
+/*----------take the first step section----------*/
+        
 
     /* h2 {
         font-size: 2em;

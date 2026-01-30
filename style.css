@@ -183,28 +183,28 @@
         padding: 5px;
     }
 
-    #prices table {
-        background-color: #E9BB57;
-        margin: 0 auto;
-        border-collapse: separate;
-        padding: 5px;
-    }
+        #prices table {
+            background-color: #E9BB57;
+            margin: 0 auto;
+            border-collapse: separate;
+            padding: 5px;
+        }
 
-    #prices th {
-        text-transform: uppercase;
-        text-align: center;
-        list-style: none;
-        margin: 0;
-    }
+            #prices th {
+                text-transform: uppercase;
+                text-align: center;
+                list-style: none;
+                margin: 0;
+            }
 
-    #prices td {
-        text-align: left;
-        font-size: 1.15em;
-        font-family: var(--font-body);
-        padding: 5px;
-        color: #1E1E1E;
-        background-color: #ffffff;
-    }
+            #prices td {
+                text-align: left;
+                font-size: 1.15em;
+                font-family: var(--font-body);
+                padding: 5px;
+                color: #1E1E1E;
+                background-color: #ffffff;
+            }
 
     /* h2 {
         font-size: 2em;

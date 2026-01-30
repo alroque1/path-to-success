@@ -107,11 +107,11 @@
             margin: 0 auto; 
         }
 
-        #our-services > h2 {
+        h2 {
             margin-bottom: 0;
         }
 
-        #our-services > h3 {
+        h3 {
             margin-top: 0;
         }
 

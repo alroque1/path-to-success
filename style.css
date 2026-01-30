@@ -178,15 +178,20 @@
 /*----------prices section----------*/
     #prices {
         background-color: #484FB7;
-        text-align: left;
+        text-align: center;
         margin: 0 auto;
         padding: 5px;
+    }
+
+    #prices h2 {
+        text-align: left;
     }
 
         #prices table {
             background-color: #E9BB57;
             margin: 0 auto;
             border-collapse: separate;
+            border-spacing: 5px;
             padding: 10px;
         }
 

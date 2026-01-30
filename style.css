@@ -159,7 +159,7 @@
 
         #why-choose-us li {
             text-align: center;
-            font-size: 1.14em;
+            font-size: 1.15em;
             font-family: var(--font-body);
             font-weight: bolder;
             padding: 20px;
@@ -198,6 +198,14 @@
         padding: 0;
         list-style: none;
         margin: 0;
+    }
+
+    #prices td {
+        text-align: left;
+        font-size: 1.15em;
+        font-family: var(--font-body);
+        padding: 5px;
+        color: #1E1E1E;
     }
 
     /* h2 {

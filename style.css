@@ -237,6 +237,8 @@
             background-color: #ffffff;
             color:#1E1E1E;
             text-align: center;
+            text-transform: uppercase;
+            text-decoration: none;
             border-radius: 15px;
             box-shadow: 5px 5px#1E1E1E;
             font-weight: bolder;

@@ -194,7 +194,7 @@
             margin: 0 auto;
             border-collapse: separate;
             border-spacing: 5px;
-            padding: 10px;
+            padding: 5px;
         }
 
             #prices th {
@@ -210,7 +210,7 @@
             #prices td {
                 text-align: left;
                 font-family: var(--font-body);
-                padding: 5px 10px;
+
                 color: #1E1E1E;
                 background-color: #ffffff;
             }

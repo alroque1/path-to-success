@@ -210,7 +210,7 @@
             #prices td {
                 text-align: left;
                 font-family: var(--font-body);
-
+                padding: 10px 15px;
                 color: #1E1E1E;
                 background-color: #ffffff;
             }
@@ -255,7 +255,7 @@
         color:#ffffff;
         background-color: #484FB7;
         font-family: var(--font-body);
-        padding: 30px;
+        padding: 40px;
     }
 
     footer small {
@@ -265,7 +265,7 @@
         align-items: center;
         flex-wrap: wrap;
         justify-content: center;
-        gap: 20px;
+        gap: 15px;
     }
     
     footer a {

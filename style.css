@@ -107,11 +107,15 @@
             margin: 0 auto; 
         }
 
+            h2 {
+                margin-bottom: 0;
+            }
+
             h3 {
                 font-size: 1.5em;
                 font-family: var(--font-body);
                 color:#E9BB57;
-                padding: 0px 9px;
+                padding: 5px 9px;
                 margin-top: 0;
             }
 

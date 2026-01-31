@@ -191,7 +191,15 @@
     #prices h2, #prices h3 {
         text-align: left;
         margin: 0;
-        padding: 0px 0px 10px 0px;
+        padding: 10px 0px 10px 0px;
+    }
+
+    #prices h2 {
+        margin-bottom: 0;
+    }
+
+    #prices h3 {
+        margin-top: 0;
     }
 
         #prices table {
